@@ -20,7 +20,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"me/memif"
+	"SimpleMemifDemo/memif"
 	"time"
 )
 
